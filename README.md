@@ -35,5 +35,5 @@ Welcome to the Campus-Career-Hub! This repository hosts a comprehensive platform
    - Analyze student performance metrics to track progress and identify areas for improvement.
 
 ## 10. Community Forums for General Doubts using React.js
-    - Engage in discussions and seek assistance from peers through community forums.
+   - Engage in discussions and seek assistance from peers through community forums.
 
